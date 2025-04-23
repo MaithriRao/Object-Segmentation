@@ -1,0 +1,6 @@
+f1_score,dice_coefficient,jaccard_score,accuracy_score
+0.157961212,0,0.123440326,0.46182251
+f1_score,dice_coefficient,jaccard_score,accuracy_score
+0.161620438,0,0.156360809,0.477630615
+f1_score,dice_coefficient,jaccard_score,accuracy_score
+0.182425229,0,0.151089478,0.574432373
